@@ -330,6 +330,7 @@ Note: All the classes and id's and names of elements that you inspect on Google'
 * [Jake Nelken's solution](https://github.com/J3uddha/google-homepage) | [View in browser](https://htmlpreview.github.io/?https://github.com/J3uddha/google-homepage/blob/master/index.html)
 * [Connor Allen's solution](https://github.com/callen139/google-homepage) | [View in browser](http://htmlpreview.github.io/?https://github.com/callen139/google-homepage/blob/master/index.html)
 * [Cgipson06's solution](https://github.com/Cgipson06/Google-Homepage.git) | [View in browser](http://htmlpreview.github.io/?https://github.com/Cgipson06/Google-Homepage/blob/master/google-homepage.html)
+* [chrisfender0's solution](https://github.com/chrisfender0/Google-Homepage) | [View in browser](http://htmlpreview.github.io/?https://github.com/chrisfender0/Google-Homepage/blob/master/Google-Homepage.html)
 * Add your solution above this line! 
 
 
